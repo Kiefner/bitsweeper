@@ -10,7 +10,7 @@ html, body{
     min-width: 1000px;
     padding: 0;
     margin: 0;
-    background: #131;
+    background: #111;
     overflow-x: hidden;
     color: white;
 }
@@ -35,8 +35,8 @@ a{
 
 #logo{
     margin: 15px auto;
-    width: 413px;
-    height: 117px;
+    width: 250px;
+    height: 40px;
     background: url(img/logo.png) no-repeat;
 }
 
